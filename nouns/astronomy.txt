@@ -1,0 +1,44 @@
+# Words related to astronomy
+
+## The Solar System
+* Mercury
+* Venus
+* Earth
+  * Moon
+* Mars
+  * Phobos
+  * Deimos
+* Asteroid Belt
+* Ceres
+* Jupiter
+  * Metis
+  * Adrastea
+  * Amalthea
+  * Thebe
+  * Io
+  * Europa
+  * Ganymede
+  * Callisto
+  * Themisto
+  * Leda
+  * Himalia
+  * Lysithea
+  * Elara
+  * Dia
+* Saturn
+* Neptune
+  * Naiad
+  * Thalassa
+  * Despina
+  * Galatea
+  * Larissa
+  * S/2004 N 1
+  * Proteus
+  * Triton
+  * Nereid
+  * Halimede
+  * Sao
+  * Laomedeia
+  * Psamathe
+  * Neso
+* Pluto
